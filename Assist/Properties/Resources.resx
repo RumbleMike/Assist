@@ -662,6 +662,9 @@
   <data name="VALORANT_Clove" xml:space="preserve">
     <value>Clove</value>
   </data>
+  <data name="VALORANT_Vyse" xml:space="preserve">
+    <value>Vyse</value>
+  </data>
   <data name="VALORANT_Unknown" xml:space="preserve">
     <value>Unknown</value>
   </data>

@@ -289,6 +289,7 @@ public class ValorantHelper
             {"cc8b64c8-4b25-4ff9-6e7f-37b4da43d235", Properties.Resources.VALORANT_Deadlock},
             {"0e38b510-41a8-5780-5e8f-568b2a4f2d6c", Properties.Resources.VALORANT_Iso},
             {"1dbf2edd-4729-0984-3115-daa5eed44993", Properties.Resources.VALORANT_Clove},
+            {"efba5359-4016-a1e5-7626-b1ae76895940", Properties.Resources.VALORANT_Vyse},
             {"holymoly", Properties.Resources.VALORANT_Unknown},
         };
         

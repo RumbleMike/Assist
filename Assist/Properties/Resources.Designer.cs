@@ -1860,6 +1860,15 @@ namespace Assist.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Vyse.
+        /// </summary>
+        public static string VALORANT_Vyse {
+            get {
+                return ResourceManager.GetString("VALORANT_Vyse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Yoru.
         /// </summary>
         public static string VALORANT_Yoru {
